@@ -10,7 +10,7 @@ You can also open Atom and go to Preferences > Install and search for `anpimg-co
 
 ## Use
 ### Convert To Anp
-`alt-shift-a` or `Anpimg Convert:Convert To Anp` in the Command Palette.
+`alt-shift-a` or `Anpimg Converter:Convert To Anp` in the Command Palette.
 
 The image needs to have `class="anpimg"` immediately after the img. See example below.
 
