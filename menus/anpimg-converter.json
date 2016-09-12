@@ -1,0 +1,27 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {}
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "APSIS image converter",
+          "submenu": [
+            {
+              "label": "Convert To Anp",
+              "command": "anpimg-converter:convert-to-anp"
+            },
+            {
+              "label": "Convert To Image",
+              "command": "anpimg-converter:convert-to-image"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

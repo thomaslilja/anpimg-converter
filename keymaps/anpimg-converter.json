@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "alt-shift-a": "anpimg-converter:img2anp",
+    "alt-shift-e": "anpimg-converter:anp2img"
+  }
+}

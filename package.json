@@ -1,0 +1,22 @@
+{
+  "name": "anpimg-converter",
+  "productName": "APSIS Image Converter",
+  "main": "./lib/anpimg-converter",
+  "version": "1.0.0",
+  "description": "Convert APSIS images",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": ["anpimg-converter:convert-to-image", "anpimg-converter:convert-to-anp"]
+  },
+  "repository": "https://github.com/thomaslilja/anpimg-converter",
+  "bugs": {
+    "url": "https://github.com/thomaslilja/anpimg-converter/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
