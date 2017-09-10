@@ -1,6 +1,6 @@
 # APSIS image converter
 
-Convert APSIS images easily.
+Atom package for easy conversion of APSIS images.
 
 ## Install
 ```
