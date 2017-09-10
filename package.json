@@ -2,7 +2,7 @@
   "name": "anpimg-converter",
   "main": "./lib/anpimg-converter",
   "version": "0.3.1",
-  "description": "Convert APSIS images",
+  "description": "Atom package for easy conversion of APSIS images.",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": [
